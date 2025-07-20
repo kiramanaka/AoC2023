@@ -1,6 +1,6 @@
 # Advent of Code 2023 - Day 2 Solution
 
-# initialize final sum
+# initialize final result
 final_result = 0
 
 # iterate though the draws and determine the minimum number of each color needed
